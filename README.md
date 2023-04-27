@@ -4,7 +4,7 @@ This a batch script that uses [pngquant](https://pngquant.org/) to compress all 
 
 ## Usage
 
-Just put the compress-images.bat file alongside with the pngquant binary (you can get this from website above on the root of the libretro-thumbnails folder.
+Just put the compress-images.bat file alongside with the pngquant binary (you can get this from website above) on the root of the libretro-thumbnails folder.
 Like this:
 
 ![](https://i.imgur.com/0cm1cYh.png)
