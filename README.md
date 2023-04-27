@@ -6,7 +6,9 @@ This a batch script that uses [pngquant](https://pngquant.org/) to compress all 
 
 Just put the compress-images.bat file alongside with the pngquant binary (you can get this from website above on the root of the libretro-thumbnails folder.
 Like this:
+
 ![](https://i.imgur.com/0cm1cYh.png)
+
 In this example I've been only using the GBA folder.
 
 ## Before and After
